@@ -1,0 +1,775 @@
+{
+  "C": {
+    "CE": {
+      "8079145": {
+        "Info": {
+          "Team1": "APR FC Kigali",
+          "Team2": "Gicumbi",
+          "Sport": "Soccer",
+          "MasterInfo": {
+            "Id": "1079"
+          }
+        }
+      }
+    },
+    "CO": {
+      "8079145": {
+        "328086139": {
+          "992237137": {
+            "Info": {
+              "Name": "APR FC Kigali",
+              "Value": 1.4,
+              "BRId": "1"
+            }
+          },
+          "992237138": {
+            "Info": {
+              "Name": "draw",
+              "Value": 3.2,
+              "BRId": "2"
+            }
+          },
+          "992237139": {
+            "Info": {
+              "Name": "Gicumbi",
+              "Value": 12.5,
+              "BRId": "3"
+            }
+          }
+        },
+        "328086140": {
+          "992237140": {
+            "Info": {
+              "Name": "APR FC Kigali (0:1)",
+              "Value": 2.7,
+              "BRId": "1711",
+              "Specs": [
+                "hcp"
+              ],
+              "hcp": "0:1"
+            }
+          },
+          "992237141": {
+            "Info": {
+              "Name": "draw (0:1)",
+              "Value": 2.6,
+              "BRId": "1712",
+              "Specs": [
+                "hcp"
+              ],
+              "hcp": "0:1"
+            }
+          },
+          "992237142": {
+            "Info": {
+              "Name": "Gicumbi (0:1)",
+              "Value": 2.8,
+              "BRId": "1713",
+              "Specs": [
+                "hcp"
+              ],
+              "hcp": "0:1"
+            }
+          }
+        },
+        "328086146": {
+          "992237155": {
+            "Info": {
+              "Name": "APR FC Kigali or draw",
+              "Value": 1.01,
+              "BRId": "9"
+            }
+          },
+          "992237156": {
+            "Info": {
+              "Name": "draw or Gicumbi",
+              "Value": 2.8,
+              "BRId": "11"
+            }
+          },
+          "992237157": {
+            "Info": {
+              "Name": "APR FC Kigali or Gicumbi",
+              "Value": 1.22,
+              "BRId": "10"
+            }
+          }
+        },
+        "328086160": {
+          "992237228": {
+            "Info": {
+              "Name": "APR FC Kigali",
+              "Value": 1.4,
+              "BRId": "1",
+              "Specs": [
+                "score"
+              ],
+              "score": "0:0"
+            }
+          },
+          "992237229": {
+            "Info": {
+              "Name": "draw",
+              "Value": 3.2,
+              "BRId": "2",
+              "Specs": [
+                "score"
+              ],
+              "score": "0:0"
+            }
+          },
+          "992237230": {
+            "Info": {
+              "Name": "Gicumbi",
+              "Value": 12.5,
+              "BRId": "3",
+              "Specs": [
+                "score"
+              ],
+              "score": "0:0"
+            }
+          }
+        },
+        "328202992": {
+          "992554672": {
+            "Info": {
+              "Name": "over 4,5",
+              "Value": 19,
+              "BRId": "12",
+              "Specs": [
+                "total"
+              ],
+              "total": "4,5"
+            }
+          },
+          "992554673": {
+            "Info": {
+              "Name": "under 4,5",
+              "Value": 1.01,
+              "BRId": "13",
+              "Specs": [
+                "total"
+              ],
+              "total": "4,5"
+            }
+          }
+        },
+        "328203000": {
+          "992554688": {
+            "Info": {
+              "Name": "over 0,5",
+              "Value": 1.19,
+              "BRId": "12",
+              "Specs": [
+                "total"
+              ],
+              "total": "0,5"
+            }
+          },
+          "992554689": {
+            "Info": {
+              "Name": "under 0,5",
+              "Value": 4.2,
+              "BRId": "13",
+              "Specs": [
+                "total"
+              ],
+              "total": "0,5"
+            }
+          }
+        },
+        "328203009": {
+          "992554712": {
+            "Info": {
+              "Name": "over 3,5",
+              "Value": 8.5,
+              "BRId": "12",
+              "Specs": [
+                "total"
+              ],
+              "total": "3,5"
+            }
+          },
+          "992554713": {
+            "Info": {
+              "Name": "under 3,5",
+              "Value": 1.04,
+              "BRId": "13",
+              "Specs": [
+                "total"
+              ],
+              "total": "3,5"
+            }
+          }
+        },
+        "328203034": {
+          "992554762": {
+            "Info": {
+              "Name": "over 1,5",
+              "Value": 1.95,
+              "BRId": "12",
+              "Specs": [
+                "total"
+              ],
+              "total": "1,5"
+            }
+          },
+          "992554763": {
+            "Info": {
+              "Name": "under 1,5",
+              "Value": 1.75,
+              "BRId": "13",
+              "Specs": [
+                "total"
+              ],
+              "total": "1,5"
+            }
+          }
+        },
+        "328203038": {
+          "992554770": {
+            "Info": {
+              "Name": "0:0",
+              "Value": 4.2,
+              "BRId": "274"
+            }
+          },
+          "992554771": {
+            "Info": {
+              "Name": "1:0",
+              "Value": 3.2,
+              "BRId": "276"
+            }
+          },
+          "992554772": {
+            "Info": {
+              "Name": "1:1",
+              "Value": 11.5,
+              "BRId": "286"
+            }
+          },
+          "992554773": {
+            "Info": {
+              "Name": "0:1",
+              "Value": 16,
+              "BRId": "284"
+            }
+          },
+          "992554774": {
+            "Info": {
+              "Name": "2:0",
+              "Value": 4.75,
+              "BRId": "278"
+            }
+          },
+          "992554775": {
+            "Info": {
+              "Name": "2:1",
+              "Value": 14,
+              "BRId": "288"
+            }
+          },
+          "992554776": {
+            "Info": {
+              "Name": "2:2",
+              "Value": 67,
+              "BRId": "298"
+            }
+          },
+          "992554777": {
+            "Info": {
+              "Name": "1:2",
+              "Value": 41,
+              "BRId": "296"
+            }
+          },
+          "992554778": {
+            "Info": {
+              "Name": "0:2",
+              "Value": 67,
+              "BRId": "294"
+            }
+          },
+          "992554779": {
+            "Info": {
+              "Name": "3:0",
+              "Value": 9.25,
+              "BRId": "280"
+            }
+          },
+          "992554780": {
+            "Info": {
+              "Name": "3:1",
+              "Value": 26,
+              "BRId": "290"
+            }
+          },
+          "992554781": {
+            "Info": {
+              "Name": "3:2",
+              "Value": 101,
+              "BRId": "300"
+            }
+          },
+          "992554782": {
+            "Info": {
+              "Name": "3:3",
+              "Value": 201,
+              "BRId": "310"
+            }
+          },
+          "992554783": {
+            "Info": {
+              "Name": "2:3",
+              "Value": 126,
+              "BRId": "308"
+            }
+          },
+          "992554784": {
+            "Info": {
+              "Name": "1:3",
+              "Value": 151,
+              "BRId": "306"
+            }
+          },
+          "992554785": {
+            "Info": {
+              "Name": "0:3",
+              "Value": 101,
+              "BRId": "304"
+            }
+          },
+          "992554786": {
+            "Info": {
+              "Name": "4:0",
+              "Value": 21,
+              "BRId": "282"
+            }
+          },
+          "992554787": {
+            "Info": {
+              "Name": "4:1",
+              "Value": 51,
+              "BRId": "292"
+            }
+          },
+          "992554788": {
+            "Info": {
+              "Name": "4:2",
+              "Value": 126,
+              "BRId": "302"
+            }
+          },
+          "992554789": {
+            "Info": {
+              "Name": "4:3",
+              "Value": 201,
+              "BRId": "312"
+            }
+          },
+          "992554790": {
+            "Info": {
+              "Name": "4:4",
+              "Value": 201,
+              "BRId": "322"
+            }
+          },
+          "992554791": {
+            "Info": {
+              "Name": "3:4",
+              "Value": 201,
+              "BRId": "320"
+            }
+          },
+          "992554792": {
+            "Info": {
+              "Name": "2:4",
+              "Value": 201,
+              "BRId": "318"
+            }
+          },
+          "992554793": {
+            "Info": {
+              "Name": "1:4",
+              "Value": 126,
+              "BRId": "316"
+            }
+          },
+          "992554794": {
+            "Info": {
+              "Name": "0:4",
+              "Value": 201,
+              "BRId": "314"
+            }
+          },
+          "992554795": {
+            "Info": {
+              "Name": "other",
+              "Value": 41,
+              "BRId": "324"
+            }
+          }
+        },
+        "328203044": {
+          "992554830": {
+            "Info": {
+              "Name": "yes",
+              "Value": 5,
+              "BRId": "74"
+            }
+          },
+          "992554831": {
+            "Info": {
+              "Name": "no",
+              "Value": 1.14,
+              "BRId": "76"
+            }
+          }
+        },
+        "328203052": {
+          "992554854": {
+            "Info": {
+              "Name": "APR FC Kigali",
+              "Value": 1.33,
+              "BRId": "6",
+              "Specs": [
+                "goalnr"
+              ],
+              "goalnr": "1"
+            }
+          },
+          "992554855": {
+            "Info": {
+              "Name": "none",
+              "Value": 4.2,
+              "BRId": "7",
+              "Specs": [
+                "goalnr"
+              ],
+              "goalnr": "1"
+            }
+          },
+          "992554856": {
+            "Info": {
+              "Name": "Gicumbi",
+              "Value": 7,
+              "BRId": "8",
+              "Specs": [
+                "goalnr"
+              ],
+              "goalnr": "1"
+            }
+          }
+        },
+        "328203062": {
+          "992554880": {
+            "Info": {
+              "Name": "over 2,5",
+              "Value": 3.9,
+              "BRId": "12",
+              "Specs": [
+                "total"
+              ],
+              "total": "2,5"
+            }
+          },
+          "992554881": {
+            "Info": {
+              "Name": "under 2,5",
+              "Value": 1.22,
+              "BRId": "13",
+              "Specs": [
+                "total"
+              ],
+              "total": "2,5"
+            }
+          }
+        },
+        "328203089": {
+          "992554953": {
+            "Info": {
+              "Name": "even",
+              "Value": 1.8,
+              "BRId": "72"
+            }
+          },
+          "992554954": {
+            "Info": {
+              "Name": "odd",
+              "Value": 1.9,
+              "BRId": "70"
+            }
+          }
+        }
+      }
+    },
+    "CM": {
+      "8079145": {
+        "328086139": {
+          "Info": {
+            "Name": "1x2",
+            "BRId": "1"
+          }
+        },
+        "328086140": {
+          "Info": {
+            "Name": "Handicap 0:1",
+            "BRId": "14",
+            "Specs": [
+              "hcp"
+            ],
+            "hcp": "0:1"
+          }
+        },
+        "328086146": {
+          "Info": {
+            "Name": "Double chance",
+            "BRId": "10"
+          }
+        },
+        "328086160": {
+          "Info": {
+            "Name": "Which team wins the rest of the match",
+            "BRId": "7",
+            "Specs": [
+              "score"
+            ],
+            "score": "0:0"
+          }
+        },
+        "328086162": {
+          "Info": {
+            "Name": "1x2",
+            "BRId": "1"
+          }
+        },
+        "328202992": {
+          "Info": {
+            "Name": "Total",
+            "BRId": "18",
+            "Specs": [
+              "total"
+            ],
+            "total": "4,5"
+          }
+        },
+        "328203000": {
+          "Info": {
+            "Name": "Total",
+            "BRId": "18",
+            "Specs": [
+              "total"
+            ],
+            "total": "0,5"
+          }
+        },
+        "328203009": {
+          "Info": {
+            "Name": "Total",
+            "BRId": "18",
+            "Specs": [
+              "total"
+            ],
+            "total": "3,5"
+          }
+        },
+        "328203034": {
+          "Info": {
+            "Name": "Total",
+            "BRId": "18",
+            "Specs": [
+              "total"
+            ],
+            "total": "1,5"
+          }
+        },
+        "328203038": {
+          "Info": {
+            "Name": "Correct score",
+            "BRId": "45"
+          }
+        },
+        "328203044": {
+          "Info": {
+            "Name": "Both teams to score",
+            "BRId": "29"
+          }
+        },
+        "328203052": {
+          "Info": {
+            "Name": "1 goal",
+            "BRId": "8",
+            "Specs": [
+              "goalnr"
+            ],
+            "goalnr": "1"
+          }
+        },
+        "328203062": {
+          "Info": {
+            "Name": "Total",
+            "BRId": "18",
+            "Specs": [
+              "total"
+            ],
+            "total": "2,5"
+          }
+        },
+        "328203089": {
+          "Info": {
+            "Name": "Odd/even",
+            "BRId": "26"
+          }
+        }
+      }
+    },
+    "CEM": {
+      "8079145": {
+        "Info": {
+          "Team1": {
+            "corners": {
+              "6": {
+                "Value": 7
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 7
+              }
+            },
+            "red_cards": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            },
+            "yellow_cards": {
+              "6": {
+                "Value": 2
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 2
+              }
+            },
+            "score": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            }
+          },
+          "Team2": {
+            "corners": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            },
+            "red_cards": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            },
+            "yellow_cards": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            },
+            "score": {
+              "6": {
+                "Value": 0
+              },
+              "7": {
+                "Value": 0
+              },
+              "41": {
+                "Value": 0
+              },
+              "50": {
+                "Value": 0
+              },
+              "100": {
+                "Value": 0
+              }
+            }
+          },
+          "Running": 0
+        }
+      }
+    }
+  },
+  "SourceId": "bwin"
+}
