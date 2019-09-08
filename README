@@ -1,12 +1,1 @@
-This scratch project will create a websocket connection to Unibet website, you can
-see the same websocket if you go to https://www.unibet.com/betting#filter/all/all/all/all/in-play.
-The task consists in:
-1) Analyze the protocol and the messages exchanged in the unibet websocket
-3) Retrieve information about sport events that are currently live and subscribe 
-through the websocket to these events
-2) Write some code in unibet_message_handler.py that translate the messages
-coming from unibet to something that is more general and e qual for all the sportbook used.
-You can see an example of the structure in the file create_event.json.
-
-
 
